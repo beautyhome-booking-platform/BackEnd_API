@@ -259,4 +259,4 @@ pub/
 .eshopdocker_*
 .devcontainer
 
-.azure
+.azureSU25_EXE201_GROUP80_FLAWLESS_BE/FLAWLESS/appsettings.json
